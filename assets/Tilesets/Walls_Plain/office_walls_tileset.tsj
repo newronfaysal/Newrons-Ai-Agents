@@ -1,0 +1,13 @@
+{
+ "type": "tileset",
+ "name": "office_walls_tileset",
+ "tilewidth": 32,
+ "tileheight": 32,
+ "columns": 8,
+ "tilecount": 25,
+ "image": "office_walls_tileset.png",
+ "imagewidth": 256,
+ "imageheight": 128,
+ "margin": 0,
+ "spacing": 0
+}

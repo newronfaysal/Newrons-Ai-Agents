@@ -1,0 +1,75 @@
+{
+  "name": "laptop",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.625,
+    0.447,
+    0.605
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "laptop_front.png",
+      "width": 24,
+      "height": 31,
+      "anchor": {
+        "x": -4,
+        "y": 3
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "laptop_left.png",
+      "width": 23,
+      "height": 32,
+      "anchor": {
+        "x": -4,
+        "y": 4
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "laptop_back.png",
+      "width": 24,
+      "height": 19,
+      "anchor": {
+        "x": -4,
+        "y": -3
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "laptop_right.png",
+      "width": 23,
+      "height": 32,
+      "anchor": {
+        "x": -5,
+        "y": 4
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

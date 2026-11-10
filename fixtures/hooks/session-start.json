@@ -1,0 +1,8 @@
+{
+  "hook_event_name": "SessionStart",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\reels\\june",
+  "source": "startup",
+  "model": "claude-sonnet-5-5",
+  "permission_mode": "default"
+}

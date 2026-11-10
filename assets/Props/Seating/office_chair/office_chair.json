@@ -1,0 +1,75 @@
+{
+  "name": "office_chair",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.938,
+    1.563,
+    0.906
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "office_chair_front.png",
+      "width": 34,
+      "height": 58,
+      "anchor": {
+        "x": 1,
+        "y": 28
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "office_chair_left.png",
+      "width": 33,
+      "height": 55,
+      "anchor": {
+        "x": 0,
+        "y": 26
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "office_chair_back.png",
+      "width": 34,
+      "height": 42,
+      "anchor": {
+        "x": 1,
+        "y": 14
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "office_chair_right.png",
+      "width": 33,
+      "height": 55,
+      "anchor": {
+        "x": 1,
+        "y": 26
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

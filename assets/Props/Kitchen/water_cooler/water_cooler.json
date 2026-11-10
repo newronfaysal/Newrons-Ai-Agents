@@ -1,0 +1,75 @@
+{
+  "name": "water_cooler",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.625,
+    1.844,
+    0.688
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "water_cooler_front.png",
+      "width": 24,
+      "height": 55,
+      "anchor": {
+        "x": -4,
+        "y": 28
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "water_cooler_left.png",
+      "width": 26,
+      "height": 55,
+      "anchor": {
+        "x": -3,
+        "y": 27
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "water_cooler_back.png",
+      "width": 24,
+      "height": 55,
+      "anchor": {
+        "x": -4,
+        "y": 26
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "water_cooler_right.png",
+      "width": 26,
+      "height": 55,
+      "anchor": {
+        "x": -3,
+        "y": 27
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

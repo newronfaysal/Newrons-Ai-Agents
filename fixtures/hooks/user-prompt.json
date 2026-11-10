@@ -1,0 +1,6 @@
+{
+  "hook_event_name": "UserPromptSubmit",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\reels\\june",
+  "prompt_length": 42
+}

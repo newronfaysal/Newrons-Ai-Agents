@@ -1,0 +1,62 @@
+{
+ "image": "props_storage.png",
+ "tile": 32,
+ "frames": {
+  "filing_cabinet_front": {
+   "x": 0,
+   "y": 0,
+   "w": 31,
+   "h": 59,
+   "anchor": {
+    "x": 0,
+    "y": 29
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "filing_cabinet_back": {
+   "x": 32,
+   "y": 0,
+   "w": 31,
+   "h": 59,
+   "anchor": {
+    "x": 0,
+    "y": 28
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "filing_cabinet_left": {
+   "x": 64,
+   "y": 0,
+   "w": 33,
+   "h": 58,
+   "anchor": {
+    "x": 1,
+    "y": 28
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "filing_cabinet_right": {
+   "x": 98,
+   "y": 0,
+   "w": 34,
+   "h": 58,
+   "anchor": {
+    "x": 1,
+    "y": 28
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  }
+ }
+}

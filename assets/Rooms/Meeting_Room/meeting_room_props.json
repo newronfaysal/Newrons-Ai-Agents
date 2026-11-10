@@ -1,0 +1,137 @@
+{
+ "image": "meeting_room_props.png",
+ "tile": 32,
+ "note": "origin = pixel of the frame on the object pivot (its floor point). Draw a frame at pivotPx - origin.",
+ "frames": {
+  "office_plant_front": {
+   "x": 157,
+   "y": 0,
+   "w": 33,
+   "h": 55,
+   "origin": {
+    "x": 16,
+    "y": 46
+   }
+  },
+  "tall_plant_front": {
+   "x": 99,
+   "y": 0,
+   "w": 24,
+   "h": 57,
+   "origin": {
+    "x": 11,
+    "y": 47
+   }
+  },
+  "wall_clock_front": {
+   "x": 463,
+   "y": 0,
+   "w": 30,
+   "h": 22,
+   "origin": {
+    "x": 15,
+    "y": 50
+   }
+  },
+  "projector_screen_front": {
+   "x": 342,
+   "y": 0,
+   "w": 68,
+   "h": 29,
+   "origin": {
+    "x": 34,
+    "y": 48
+   }
+  },
+  "office_chair_front": {
+   "x": 124,
+   "y": 0,
+   "w": 32,
+   "h": 56,
+   "origin": {
+    "x": 16,
+    "y": 43
+   }
+  },
+  "office_chair_right": {
+   "x": 220,
+   "y": 0,
+   "w": 31,
+   "h": 53,
+   "origin": {
+    "x": 16,
+    "y": 41
+   }
+  },
+  "office_chair_left": {
+   "x": 252,
+   "y": 0,
+   "w": 31,
+   "h": 53,
+   "origin": {
+    "x": 15,
+    "y": 41
+   }
+  },
+  "conference_table_front": {
+   "x": 0,
+   "y": 0,
+   "w": 98,
+   "h": 74,
+   "origin": {
+    "x": 49,
+    "y": 51
+   }
+  },
+  "laptop_front": {
+   "x": 411,
+   "y": 0,
+   "w": 22,
+   "h": 29,
+   "origin": {
+    "x": 11,
+    "y": 36
+   }
+  },
+  "paper_stack_front": {
+   "x": 434,
+   "y": 0,
+   "w": 28,
+   "h": 28,
+   "origin": {
+    "x": 14,
+    "y": 34
+   }
+  },
+  "office_chair_back": {
+   "x": 309,
+   "y": 0,
+   "w": 32,
+   "h": 40,
+   "origin": {
+    "x": 16,
+    "y": 29
+   }
+  },
+  "flip_chart_right": {
+   "x": 191,
+   "y": 0,
+   "w": 28,
+   "h": 55,
+   "origin": {
+    "x": 14,
+    "y": 44
+   }
+  },
+  "water_cooler_left": {
+   "x": 284,
+   "y": 0,
+   "w": 24,
+   "h": 53,
+   "origin": {
+    "x": 12,
+    "y": 42
+   }
+  }
+ }
+}

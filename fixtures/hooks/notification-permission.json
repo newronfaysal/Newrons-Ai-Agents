@@ -1,0 +1,7 @@
+{
+  "hook_event_name": "Notification",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\app",
+  "notification_type": "permission_prompt",
+  "message": "Claude needs your permission to use Bash"
+}

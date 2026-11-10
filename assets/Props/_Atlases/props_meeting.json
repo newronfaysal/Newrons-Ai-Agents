@@ -1,0 +1,174 @@
+{
+ "image": "props_meeting.png",
+ "tile": 32,
+ "frames": {
+  "conference_table_left": {
+   "x": 0,
+   "y": 0,
+   "w": 68,
+   "h": 110,
+   "anchor": {
+    "x": 2,
+    "y": 20
+   },
+   "footprint": [
+    2,
+    3
+   ]
+  },
+  "conference_table_right": {
+   "x": 69,
+   "y": 0,
+   "w": 68,
+   "h": 110,
+   "anchor": {
+    "x": 2,
+    "y": 20
+   },
+   "footprint": [
+    2,
+    3
+   ]
+  },
+  "projector_screen_left": {
+   "x": 138,
+   "y": 0,
+   "w": 10,
+   "h": 90,
+   "anchor": {
+    "x": -11,
+    "y": 27
+   },
+   "footprint": [
+    1,
+    2
+   ]
+  },
+  "projector_screen_right": {
+   "x": 149,
+   "y": 0,
+   "w": 9,
+   "h": 90,
+   "anchor": {
+    "x": -11,
+    "y": 27
+   },
+   "footprint": [
+    1,
+    2
+   ]
+  },
+  "conference_table_front": {
+   "x": 159,
+   "y": 0,
+   "w": 100,
+   "h": 76,
+   "anchor": {
+    "x": 2,
+    "y": 20
+   },
+   "footprint": [
+    3,
+    2
+   ]
+  },
+  "conference_table_back": {
+   "x": 260,
+   "y": 0,
+   "w": 100,
+   "h": 76,
+   "anchor": {
+    "x": 2,
+    "y": 20
+   },
+   "footprint": [
+    3,
+    2
+   ]
+  },
+  "flip_chart_back": {
+   "x": 361,
+   "y": 0,
+   "w": 28,
+   "h": 58,
+   "anchor": {
+    "x": -2,
+    "y": 29
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "flip_chart_left": {
+   "x": 390,
+   "y": 0,
+   "w": 30,
+   "h": 57,
+   "anchor": {
+    "x": -1,
+    "y": 29
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "flip_chart_right": {
+   "x": 421,
+   "y": 0,
+   "w": 30,
+   "h": 57,
+   "anchor": {
+    "x": -1,
+    "y": 29
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "flip_chart_front": {
+   "x": 452,
+   "y": 0,
+   "w": 28,
+   "h": 37,
+   "anchor": {
+    "x": -2,
+    "y": 9
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "projector_screen_front": {
+   "x": 0,
+   "y": 111,
+   "w": 70,
+   "h": 31,
+   "anchor": {
+    "x": 3,
+    "y": 13
+   },
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "projector_screen_back": {
+   "x": 71,
+   "y": 111,
+   "w": 70,
+   "h": 31,
+   "anchor": {
+    "x": 3,
+    "y": 12
+   },
+   "footprint": [
+    2,
+    1
+   ]
+  }
+ }
+}

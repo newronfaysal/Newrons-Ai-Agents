@@ -1,0 +1,8 @@
+{
+  "hook_event_name": "PreToolUse",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\reels\\june",
+  "tool_name": "Edit",
+  "tool_use_id": "tu_2",
+  "tool_input": { "file_path": "C:\\Projects\\reels\\june\\.env" }
+}

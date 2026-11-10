@@ -1,0 +1,7 @@
+{
+  "hook_event_name": "SubagentStart",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\app",
+  "agent_id": "ag_1",
+  "agent_type": "Plan"
+}

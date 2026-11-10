@@ -1,0 +1,62 @@
+{
+ "image": "props_desks.png",
+ "tile": 32,
+ "frames": {
+  "office_desk_right": {
+   "x": 0,
+   "y": 0,
+   "w": 37,
+   "h": 84,
+   "anchor": {
+    "x": 3,
+    "y": 20
+   },
+   "footprint": [
+    1,
+    2
+   ]
+  },
+  "office_desk_left": {
+   "x": 38,
+   "y": 0,
+   "w": 37,
+   "h": 83,
+   "anchor": {
+    "x": 2,
+    "y": 20
+   },
+   "footprint": [
+    1,
+    2
+   ]
+  },
+  "office_desk_front": {
+   "x": 76,
+   "y": 0,
+   "w": 68,
+   "h": 53,
+   "anchor": {
+    "x": 2,
+    "y": 21
+   },
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "office_desk_back": {
+   "x": 145,
+   "y": 0,
+   "w": 68,
+   "h": 53,
+   "anchor": {
+    "x": 2,
+    "y": 19
+   },
+   "footprint": [
+    2,
+    1
+   ]
+  }
+ }
+}

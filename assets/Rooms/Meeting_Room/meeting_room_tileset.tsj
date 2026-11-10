@@ -1,0 +1,13 @@
+{
+ "type": "tileset",
+ "name": "meeting_room_tileset",
+ "tilewidth": 32,
+ "tileheight": 32,
+ "columns": 8,
+ "tilecount": 13,
+ "image": "meeting_room_tileset.png",
+ "imagewidth": 256,
+ "imageheight": 64,
+ "margin": 0,
+ "spacing": 0
+}

@@ -1,0 +1,75 @@
+{
+  "name": "conference_table",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    3,
+    0.969,
+    2
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "conference_table_front.png",
+      "width": 100,
+      "height": 76,
+      "anchor": {
+        "x": 2,
+        "y": 20
+      },
+      "footprint": [
+        3,
+        2
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "conference_table_left.png",
+      "width": 68,
+      "height": 110,
+      "anchor": {
+        "x": 2,
+        "y": 20
+      },
+      "footprint": [
+        2,
+        3
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "conference_table_back.png",
+      "width": 100,
+      "height": 76,
+      "anchor": {
+        "x": 2,
+        "y": 20
+      },
+      "footprint": [
+        3,
+        2
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "conference_table_right.png",
+      "width": 68,
+      "height": 110,
+      "anchor": {
+        "x": 2,
+        "y": 20
+      },
+      "footprint": [
+        2,
+        3
+      ]
+    }
+  },
+  "unique": 4
+}

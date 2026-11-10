@@ -1,0 +1,75 @@
+{
+  "name": "paper_stack",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.793,
+    0.281,
+    0.759
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "paper_stack_front.png",
+      "width": 30,
+      "height": 30,
+      "anchor": {
+        "x": -1,
+        "y": 1
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "paper_stack_left.png",
+      "width": 28,
+      "height": 32,
+      "anchor": {
+        "x": -2,
+        "y": 2
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "paper_stack_back.png",
+      "width": 30,
+      "height": 31,
+      "anchor": {
+        "x": -1,
+        "y": 1
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "paper_stack_right.png",
+      "width": 28,
+      "height": 32,
+      "anchor": {
+        "x": -2,
+        "y": 2
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

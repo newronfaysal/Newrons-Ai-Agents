@@ -1,0 +1,14 @@
+OFFICE PIXEL ART (Free) - LICENSE
+
+YOU CAN
+- Use these assets in personal and commercial projects (games, apps, videos, prototypes, game jams).
+- Edit, recolour and combine them with other assets.
+- Credit is REQUIRED: "Office Pixel Art by Imersa Studios" in your credits, with a link to https://imersastudios.itch.io/office-pixel-art if you can.
+
+YOU CAN'T
+- Resell, share or redistribute the assets themselves, edited or not, alone or in an asset pack,
+  template or tileset (they can only ship inside your project).
+- Use them to train AI models or in NFT projects.
+- Claim them as your own work.
+
+Copyright (c) 2026 Imersa Studios. All rights not granted above are reserved.

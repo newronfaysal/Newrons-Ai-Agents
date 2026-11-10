@@ -1,0 +1,47 @@
+{
+ "type": "tileset",
+ "version": "1.10",
+ "tiledversion": "1.10.2",
+ "name": "office_floors",
+ "tilewidth": 32,
+ "tileheight": 32,
+ "tilecount": 3,
+ "columns": 3,
+ "image": "office_floors_tileset.png",
+ "imagewidth": 96,
+ "imageheight": 32,
+ "margin": 0,
+ "spacing": 0,
+ "tiles": [
+  {
+   "id": 0,
+   "properties": [
+    {
+     "name": "name",
+     "type": "string",
+     "value": "wood"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "properties": [
+    {
+     "name": "name",
+     "type": "string",
+     "value": "carpet_grey"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "properties": [
+    {
+     "name": "name",
+     "type": "string",
+     "value": "vinyl_grey"
+    }
+   ]
+  }
+ ]
+}

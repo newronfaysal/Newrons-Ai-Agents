@@ -1,0 +1,7 @@
+{
+  "hook_event_name": "PermissionRequest",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\app",
+  "tool_name": "Bash",
+  "tool_input": { "command": "rm -rf build" }
+}

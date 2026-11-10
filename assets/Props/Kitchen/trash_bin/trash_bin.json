@@ -1,0 +1,75 @@
+{
+  "name": "trash_bin",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.5,
+    0.75,
+    0.5
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "trash_bin_front.png",
+      "width": 20,
+      "height": 31,
+      "anchor": {
+        "x": -6,
+        "y": 6
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "trash_bin_left.png",
+      "width": 20,
+      "height": 31,
+      "anchor": {
+        "x": -6,
+        "y": 6
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "trash_bin_back.png",
+      "width": 20,
+      "height": 31,
+      "anchor": {
+        "x": -6,
+        "y": 6
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "trash_bin_right.png",
+      "width": 20,
+      "height": 31,
+      "anchor": {
+        "x": -6,
+        "y": 6
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

@@ -1,0 +1,75 @@
+{
+  "name": "office_plant",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    1,
+    1.875,
+    1
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "office_plant_front.png",
+      "width": 35,
+      "height": 57,
+      "anchor": {
+        "x": 1,
+        "y": 31
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "office_plant_left.png",
+      "width": 36,
+      "height": 57,
+      "anchor": {
+        "x": 2,
+        "y": 31
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "office_plant_back.png",
+      "width": 35,
+      "height": 56,
+      "anchor": {
+        "x": 2,
+        "y": 30
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "office_plant_right.png",
+      "width": 36,
+      "height": 55,
+      "anchor": {
+        "x": 2,
+        "y": 29
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

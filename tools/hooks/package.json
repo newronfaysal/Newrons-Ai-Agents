@@ -1,0 +1,14 @@
+{
+  "name": "@ai-office/hooks",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "echo \"plain JS, no typecheck\"",
+    "build": "echo \"nothing to build\""
+  },
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
+}

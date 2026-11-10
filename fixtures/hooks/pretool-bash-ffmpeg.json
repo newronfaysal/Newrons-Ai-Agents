@@ -1,0 +1,8 @@
+{
+  "hook_event_name": "PreToolUse",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\reels\\june",
+  "tool_name": "Bash",
+  "tool_use_id": "tu_3",
+  "tool_input": { "command": "ffmpeg -i in.mp4 -c:v libx264 out.mp4" }
+}

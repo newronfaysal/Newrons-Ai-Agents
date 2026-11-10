@@ -1,0 +1,35 @@
+{
+  "name": "ai-office",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "packageManager": "pnpm@10.28.0",
+  "scripts": {
+    "install:all": "pnpm install",
+    "dev": "pnpm --parallel --filter @ai-office/server --filter @ai-office/web dev",
+    "dev:server": "pnpm --filter @ai-office/server dev",
+    "dev:web": "pnpm --filter @ai-office/web dev",
+    "start": "pnpm build && pnpm --filter @ai-office/server start",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "test": "pnpm -r test",
+    "test:e2e": "pnpm --filter @ai-office/web test:e2e",
+    "hooks:install": "node tools/hooks/install.mjs install",
+    "hooks:uninstall": "node tools/hooks/install.mjs uninstall",
+    "hooks:status": "node tools/hooks/install.mjs status",
+    "db:backup": "pnpm --filter @ai-office/server backup",
+    "package": "echo \"Tauri packaging: see WINDOWS_SETUP.md (requires Rust toolchain; not built in this repo yet)\""
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "prettier": "^3.3.0",
+    "typescript": "^5.6.0",
+    "typescript-eslint": "^8.72.2"
+  }
+}

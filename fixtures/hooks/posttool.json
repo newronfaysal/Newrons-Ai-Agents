@@ -1,0 +1,9 @@
+{
+  "hook_event_name": "PostToolUse",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\reels\\june",
+  "tool_name": "Read",
+  "tool_use_id": "tu_1",
+  "tool_input": { "file_path": "C:\\Projects\\reels\\june\\script.md" },
+  "duration_ms": 12
+}

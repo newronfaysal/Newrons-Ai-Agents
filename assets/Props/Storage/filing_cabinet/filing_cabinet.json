@@ -1,0 +1,75 @@
+{
+  "name": "filing_cabinet",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.844,
+    1.563,
+    0.922
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "filing_cabinet_front.png",
+      "width": 31,
+      "height": 59,
+      "anchor": {
+        "x": 0,
+        "y": 29
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "filing_cabinet_left.png",
+      "width": 33,
+      "height": 58,
+      "anchor": {
+        "x": 1,
+        "y": 28
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "filing_cabinet_back.png",
+      "width": 31,
+      "height": 59,
+      "anchor": {
+        "x": 0,
+        "y": 28
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "filing_cabinet_right.png",
+      "width": 34,
+      "height": 58,
+      "anchor": {
+        "x": 1,
+        "y": 28
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

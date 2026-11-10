@@ -1,0 +1,21 @@
+{
+ "tile": 32,
+ "floors": {
+  "wood": {
+   "id": 0,
+   "x": 0,
+   "y": 0
+  },
+  "carpet_grey": {
+   "id": 1,
+   "x": 32,
+   "y": 0
+  },
+  "vinyl_grey": {
+   "id": 2,
+   "x": 64,
+   "y": 0
+  }
+ },
+ "note": "every floor is one seamless tile: fill the room with it"
+}

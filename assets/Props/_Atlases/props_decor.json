@@ -1,0 +1,174 @@
+{
+ "image": "props_decor.png",
+ "tile": 32,
+ "frames": {
+  "tall_plant_back": {
+   "x": 0,
+   "y": 0,
+   "w": 26,
+   "h": 60,
+   "anchor": {
+    "x": -2,
+    "y": 33
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "tall_plant_right": {
+   "x": 27,
+   "y": 0,
+   "w": 28,
+   "h": 60,
+   "anchor": {
+    "x": -2,
+    "y": 33
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "tall_plant_front": {
+   "x": 56,
+   "y": 0,
+   "w": 26,
+   "h": 59,
+   "anchor": {
+    "x": -4,
+    "y": 32
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_plant_front": {
+   "x": 83,
+   "y": 0,
+   "w": 35,
+   "h": 57,
+   "anchor": {
+    "x": 1,
+    "y": 31
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_plant_left": {
+   "x": 119,
+   "y": 0,
+   "w": 36,
+   "h": 57,
+   "anchor": {
+    "x": 2,
+    "y": 31
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "tall_plant_left": {
+   "x": 156,
+   "y": 0,
+   "w": 28,
+   "h": 57,
+   "anchor": {
+    "x": -2,
+    "y": 30
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_plant_back": {
+   "x": 185,
+   "y": 0,
+   "w": 35,
+   "h": 56,
+   "anchor": {
+    "x": 2,
+    "y": 30
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_plant_right": {
+   "x": 221,
+   "y": 0,
+   "w": 36,
+   "h": 55,
+   "anchor": {
+    "x": 2,
+    "y": 29
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "wall_clock_left": {
+   "x": 258,
+   "y": 0,
+   "w": 8,
+   "h": 44,
+   "anchor": {
+    "x": -13,
+    "y": 14
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "wall_clock_right": {
+   "x": 267,
+   "y": 0,
+   "w": 8,
+   "h": 44,
+   "anchor": {
+    "x": -11,
+    "y": 14
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "wall_clock_front": {
+   "x": 276,
+   "y": 0,
+   "w": 32,
+   "h": 23,
+   "anchor": {
+    "x": 0,
+    "y": 5
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "wall_clock_back": {
+   "x": 309,
+   "y": 0,
+   "w": 32,
+   "h": 23,
+   "anchor": {
+    "x": 0,
+    "y": 2
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  }
+ }
+}

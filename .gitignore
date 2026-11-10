@@ -1,0 +1,13 @@
+node_modules
+dist
+data/
+*.db
+*.db-wal
+*.db-shm
+.env
+playwright-report
+test-results
+
+# local diagnostic output
+claude-test-output.txt
+hook-diagnose.txt

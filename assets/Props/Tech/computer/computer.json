@@ -1,0 +1,75 @@
+{
+  "name": "computer",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.875,
+    0.906,
+    0.625
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "computer_front.png",
+      "width": 32,
+      "height": 34,
+      "anchor": {
+        "x": 0,
+        "y": 6
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "computer_left.png",
+      "width": 24,
+      "height": 47,
+      "anchor": {
+        "x": -4,
+        "y": 17
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "computer_back.png",
+      "width": 32,
+      "height": 30,
+      "anchor": {
+        "x": 0,
+        "y": 2
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "computer_right.png",
+      "width": 24,
+      "height": 48,
+      "anchor": {
+        "x": -4,
+        "y": 17
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

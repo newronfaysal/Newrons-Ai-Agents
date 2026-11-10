@@ -1,0 +1,62 @@
+{
+ "image": "props_seating.png",
+ "tile": 32,
+ "frames": {
+  "office_chair_front": {
+   "x": 0,
+   "y": 0,
+   "w": 34,
+   "h": 58,
+   "anchor": {
+    "x": 1,
+    "y": 28
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_chair_left": {
+   "x": 35,
+   "y": 0,
+   "w": 33,
+   "h": 55,
+   "anchor": {
+    "x": 0,
+    "y": 26
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_chair_right": {
+   "x": 69,
+   "y": 0,
+   "w": 33,
+   "h": 55,
+   "anchor": {
+    "x": 1,
+    "y": 26
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "office_chair_back": {
+   "x": 103,
+   "y": 0,
+   "w": 34,
+   "h": 42,
+   "anchor": {
+    "x": 1,
+    "y": 14
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  }
+ }
+}

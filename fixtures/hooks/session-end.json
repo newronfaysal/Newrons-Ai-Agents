@@ -1,0 +1,6 @@
+{
+  "hook_event_name": "SessionEnd",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\app",
+  "reason": "prompt_input_exit"
+}

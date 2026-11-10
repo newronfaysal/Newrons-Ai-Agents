@@ -1,0 +1,93 @@
+{
+ "type": "tileset",
+ "name": "meeting_room_props",
+ "tilewidth": 98,
+ "tileheight": 74,
+ "tilecount": 13,
+ "columns": 0,
+ "grid": {
+  "orientation": "orthogonal",
+  "width": 1,
+  "height": 1
+ },
+ "tiles": [
+  {
+   "id": 0,
+   "image": "meeting_room_props/office_plant_front.png",
+   "imagewidth": 33,
+   "imageheight": 55
+  },
+  {
+   "id": 1,
+   "image": "meeting_room_props/tall_plant_front.png",
+   "imagewidth": 24,
+   "imageheight": 57
+  },
+  {
+   "id": 2,
+   "image": "meeting_room_props/wall_clock_front.png",
+   "imagewidth": 30,
+   "imageheight": 22
+  },
+  {
+   "id": 3,
+   "image": "meeting_room_props/projector_screen_front.png",
+   "imagewidth": 68,
+   "imageheight": 29
+  },
+  {
+   "id": 4,
+   "image": "meeting_room_props/office_chair_front.png",
+   "imagewidth": 32,
+   "imageheight": 56
+  },
+  {
+   "id": 5,
+   "image": "meeting_room_props/office_chair_right.png",
+   "imagewidth": 31,
+   "imageheight": 53
+  },
+  {
+   "id": 6,
+   "image": "meeting_room_props/office_chair_left.png",
+   "imagewidth": 31,
+   "imageheight": 53
+  },
+  {
+   "id": 7,
+   "image": "meeting_room_props/conference_table_front.png",
+   "imagewidth": 98,
+   "imageheight": 74
+  },
+  {
+   "id": 8,
+   "image": "meeting_room_props/laptop_front.png",
+   "imagewidth": 22,
+   "imageheight": 29
+  },
+  {
+   "id": 9,
+   "image": "meeting_room_props/paper_stack_front.png",
+   "imagewidth": 28,
+   "imageheight": 28
+  },
+  {
+   "id": 10,
+   "image": "meeting_room_props/office_chair_back.png",
+   "imagewidth": 32,
+   "imageheight": 40
+  },
+  {
+   "id": 11,
+   "image": "meeting_room_props/flip_chart_right.png",
+   "imagewidth": 28,
+   "imageheight": 55
+  },
+  {
+   "id": 12,
+   "image": "meeting_room_props/water_cooler_left.png",
+   "imagewidth": 24,
+   "imageheight": 53
+  }
+ ]
+}

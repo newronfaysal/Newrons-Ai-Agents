@@ -1,0 +1,118 @@
+{
+ "image": "props_kitchen.png",
+ "tile": 32,
+ "frames": {
+  "water_cooler_front": {
+   "x": 0,
+   "y": 0,
+   "w": 24,
+   "h": 55,
+   "anchor": {
+    "x": -4,
+    "y": 28
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "water_cooler_left": {
+   "x": 25,
+   "y": 0,
+   "w": 26,
+   "h": 55,
+   "anchor": {
+    "x": -3,
+    "y": 27
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "water_cooler_back": {
+   "x": 52,
+   "y": 0,
+   "w": 24,
+   "h": 55,
+   "anchor": {
+    "x": -4,
+    "y": 26
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "water_cooler_right": {
+   "x": 77,
+   "y": 0,
+   "w": 26,
+   "h": 55,
+   "anchor": {
+    "x": -3,
+    "y": 27
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "trash_bin_front": {
+   "x": 104,
+   "y": 0,
+   "w": 20,
+   "h": 31,
+   "anchor": {
+    "x": -6,
+    "y": 6
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "trash_bin_left": {
+   "x": 125,
+   "y": 0,
+   "w": 20,
+   "h": 31,
+   "anchor": {
+    "x": -6,
+    "y": 6
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "trash_bin_back": {
+   "x": 146,
+   "y": 0,
+   "w": 20,
+   "h": 31,
+   "anchor": {
+    "x": -6,
+    "y": 6
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "trash_bin_right": {
+   "x": 167,
+   "y": 0,
+   "w": 20,
+   "h": 31,
+   "anchor": {
+    "x": -6,
+    "y": 6
+   },
+   "footprint": [
+    1,
+    1
+   ]
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "projector_screen",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    2.063,
+    1.297,
+    0.172
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "projector_screen_front.png",
+      "width": 70,
+      "height": 31,
+      "anchor": {
+        "x": 3,
+        "y": 13
+      },
+      "footprint": [
+        2,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "projector_screen_left.png",
+      "width": 10,
+      "height": 90,
+      "anchor": {
+        "x": -11,
+        "y": 27
+      },
+      "footprint": [
+        1,
+        2
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "projector_screen_back.png",
+      "width": 70,
+      "height": 31,
+      "anchor": {
+        "x": 3,
+        "y": 12
+      },
+      "footprint": [
+        2,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "projector_screen_right.png",
+      "width": 9,
+      "height": 90,
+      "anchor": {
+        "x": -11,
+        "y": 27
+      },
+      "footprint": [
+        1,
+        2
+      ]
+    }
+  },
+  "unique": 4
+}

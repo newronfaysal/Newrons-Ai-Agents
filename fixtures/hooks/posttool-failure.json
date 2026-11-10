@@ -1,0 +1,10 @@
+{
+  "hook_event_name": "PostToolUseFailure",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\app",
+  "tool_name": "Bash",
+  "tool_use_id": "tu_4",
+  "tool_input": { "command": "pnpm test" },
+  "error": "Command failed with exit code 1",
+  "is_interrupt": false
+}

@@ -1,0 +1,451 @@
+{
+ "name": "meeting_room",
+ "tile": 32,
+ "size": [
+  9,
+  9
+ ],
+ "origin": {
+  "col": 28,
+  "row": 0
+ },
+ "camera": {
+  "az": 0,
+  "el": 60
+ },
+ "tileset": "meeting_room_tileset.png",
+ "tileColumns": 8,
+ "layers": [
+  {
+   "name": "Meeting Room · Floor",
+   "data": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "name": "Meeting Room · Walls",
+   "data": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    8,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    8,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    8,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    8,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    8,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    8,
+    9,
+    10,
+    10,
+    10,
+    10,
+    10,
+    11,
+    -1,
+    12
+   ]
+  }
+ ],
+ "props": "meeting_room_props.json",
+ "note": "objects in draw order; x, y = top-left of the frame in map pixels",
+ "objects": [
+  {
+   "name": "office_plant",
+   "frame": "office_plant_front",
+   "x": 17,
+   "y": 37,
+   "w": 33,
+   "h": 55,
+   "pos": [
+    29.03125,
+    0,
+    2.6
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "tall_plant",
+   "frame": "tall_plant_front",
+   "x": 245,
+   "y": 36,
+   "w": 24,
+   "h": 57,
+   "pos": [
+    36,
+    0,
+    2.6
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "wall_clock",
+   "frame": "wall_clock_front",
+   "x": 228,
+   "y": 17,
+   "w": 30,
+   "h": 22,
+   "pos": [
+    35.6,
+    1.6,
+    2.1
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "projector_screen",
+   "frame": "projector_screen_front",
+   "x": 110,
+   "y": 19,
+   "w": 68,
+   "h": 29,
+   "pos": [
+    32.5,
+    1.1,
+    2.105
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair",
+   "frame": "office_chair_front",
+   "x": 96,
+   "y": 77,
+   "w": 32,
+   "h": 56,
+   "pos": [
+    31.5,
+    0,
+    3.75
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 2",
+   "frame": "office_chair_front",
+   "x": 128,
+   "y": 77,
+   "w": 32,
+   "h": 56,
+   "pos": [
+    32.5,
+    0,
+    3.75
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 3",
+   "frame": "office_chair_front",
+   "x": 160,
+   "y": 77,
+   "w": 32,
+   "h": 56,
+   "pos": [
+    33.5,
+    0,
+    3.75
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 7",
+   "frame": "office_chair_right",
+   "x": 62,
+   "y": 125,
+   "w": 31,
+   "h": 53,
+   "pos": [
+    30.45,
+    0,
+    5.2
+   ],
+   "rot": 90,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 8",
+   "frame": "office_chair_left",
+   "x": 195,
+   "y": 125,
+   "w": 31,
+   "h": 53,
+   "pos": [
+    34.55,
+    0,
+    5.2
+   ],
+   "rot": 270,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "conference_table",
+   "frame": "conference_table_front",
+   "x": 95,
+   "y": 115,
+   "w": 98,
+   "h": 74,
+   "pos": [
+    32.5,
+    0,
+    5.2
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "laptop",
+   "frame": "laptop_front",
+   "x": 120,
+   "y": 124,
+   "w": 22,
+   "h": 29,
+   "pos": [
+    32.1,
+    0.97,
+    5
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "paper_stack",
+   "frame": "paper_stack_front",
+   "x": 146,
+   "y": 139,
+   "w": 28,
+   "h": 28,
+   "pos": [
+    33,
+    0.97,
+    5.4
+   ],
+   "rot": 0,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 4",
+   "frame": "office_chair_back",
+   "x": 96,
+   "y": 184,
+   "w": 32,
+   "h": 40,
+   "pos": [
+    31.5,
+    0,
+    6.65
+   ],
+   "rot": 180,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 5",
+   "frame": "office_chair_back",
+   "x": 128,
+   "y": 184,
+   "w": 32,
+   "h": 40,
+   "pos": [
+    32.5,
+    0,
+    6.65
+   ],
+   "rot": 180,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "office_chair 6",
+   "frame": "office_chair_back",
+   "x": 160,
+   "y": 184,
+   "w": 32,
+   "h": 40,
+   "pos": [
+    33.5,
+    0,
+    6.65
+   ],
+   "rot": 180,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "flip_chart",
+   "frame": "flip_chart_right",
+   "x": 24,
+   "y": 202,
+   "w": 28,
+   "h": 55,
+   "pos": [
+    29.2,
+    0,
+    7.7
+   ],
+   "rot": 90,
+   "folder": "Meeting Room · Props"
+  },
+  {
+   "name": "water_cooler",
+   "frame": "water_cooler_left",
+   "x": 247,
+   "y": 208,
+   "w": 24,
+   "h": 53,
+   "pos": [
+    36.1,
+    0,
+    7.8
+   ],
+   "rot": 270,
+   "folder": "Meeting Room · Props"
+  }
+ ]
+}

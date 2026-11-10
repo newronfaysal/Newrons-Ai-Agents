@@ -1,0 +1,6 @@
+{
+  "hook_event_name": "StopFailure",
+  "session_id": "sess-abc",
+  "cwd": "C:\\Projects\\app",
+  "error": "rate_limit"
+}

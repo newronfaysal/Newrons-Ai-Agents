@@ -1,0 +1,75 @@
+{
+  "name": "wall_clock",
+  "tile": 32,
+  "scale": 1,
+  "el": 60,
+  "size": [
+    0.875,
+    0.875,
+    0.156
+  ],
+  "center": [
+    0,
+    0
+  ],
+  "y": 0,
+  "views": {
+    "front": {
+      "az": 0,
+      "file": "wall_clock_front.png",
+      "width": 32,
+      "height": 23,
+      "anchor": {
+        "x": 0,
+        "y": 5
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "left": {
+      "az": 90,
+      "file": "wall_clock_left.png",
+      "width": 8,
+      "height": 44,
+      "anchor": {
+        "x": -13,
+        "y": 14
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "back": {
+      "az": 180,
+      "file": "wall_clock_back.png",
+      "width": 32,
+      "height": 23,
+      "anchor": {
+        "x": 0,
+        "y": 2
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    "right": {
+      "az": 270,
+      "file": "wall_clock_right.png",
+      "width": 8,
+      "height": 44,
+      "anchor": {
+        "x": -11,
+        "y": 14
+      },
+      "footprint": [
+        1,
+        1
+      ]
+    }
+  },
+  "unique": 4
+}

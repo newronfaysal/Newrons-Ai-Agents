@@ -1,0 +1,33 @@
+{
+ "name": "office_worker",
+ "frame": [
+  32,
+  32
+ ],
+ "anchor": {
+  "x": 16,
+  "y": 30,
+  "note": "feet on the floor; put it on the map point"
+ },
+ "frames": 4,
+ "fps": {
+  "idle": 4,
+  "walk": 8
+ },
+ "tile": 32,
+ "rows": {
+  "idle_down": 0,
+  "idle_left": 1,
+  "idle_right": 2,
+  "idle_up": 3,
+  "walk_down": 4,
+  "walk_left": 5,
+  "walk_right": 6,
+  "walk_up": 7
+ },
+ "files": {
+  "sheet": "office_worker.png",
+  "idle": "office_worker_idle.png",
+  "walk": "office_worker_walk.png"
+ }
+}

@@ -1,0 +1,6 @@
+{
+  "hook_event_name": "TaskCreated",
+  "session_id": "sess-abc",
+  "task_id": "ct_1",
+  "task_subject": "Add captions"
+}
